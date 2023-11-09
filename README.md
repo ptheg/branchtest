@@ -1,3 +1,3 @@
 # branchtest
 
-#v10
+req: v10 - v10.99
